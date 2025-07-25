@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I’m Aditi 👋
+### Hi there👋
 
-I'm a **data analyst** on a mission to become a full-fledged **data engineer** 🚀
+I’m **Aditi**, I'm a **data analyst** on a mission to become a full-fledged **data engineer** 🚀
 
 I currently work at **Capgemini**, where I wrangle data, build pipelines, and support enterprise analytics — powered by a solid mix of **Python**, **SQL**, and caffeine ☕.  
 
@@ -38,22 +38,18 @@ Big fan of clean code, solid documentation, and solving the kinds of problems th
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" alt="Bash" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35" alt="Oracle" title="Oracle SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" alt="MongoDB" title="MongoDB"/>
 
   <!-- Big Data & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="35" alt="Hadoop" title="Hadoop"/>
+  <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" width="35" alt="Hadoop" title="Hadoop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="35" alt="Kafka" title="Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35" alt="AWS" title="AWS"/>
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="35" alt="AWS" title="AWS"/>
   
   <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="Linux" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="35" alt="Postman" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VSCode" title="VS Code"/>
 </p>
 
