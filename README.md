@@ -22,7 +22,7 @@ I’m **Aditi**, I'm a **data analyst** on a mission to become a full-fledged **
 
 I currently work at **Capgemini**, where I wrangle data, build pipelines, and support enterprise analytics — powered by a solid mix of **Python**, **SQL**, and caffeine ☕.  
 
-I'm hands-on with tools and platforms like **AWS**, **PySpark**, **Hadoop**, **Docker**, **Kafka**, and more.
+I'm hands-on with tools and platforms like **GCP**, **AWS**, **PySpark**, **Hadoop**, **Docker**, **Kafka**, and more.
 
 I love turning messy data into meaningful insights, automating workflows, and designing systems that *just work*.  
 Big fan of clean code, solid documentation, and solving the kinds of problems that make you go:  
