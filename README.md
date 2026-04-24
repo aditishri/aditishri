@@ -45,6 +45,7 @@ Big fan of clean code, solid documentation, and solving the kinds of problems th
   <!-- Big Data & Cloud -->
   <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" width="40" alt="Hadoop" title="Hadoop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GoogleCloud" title="GoogleCloud"/>
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" alt="AWS" title="AWS"/>
   
   <!-- DevOps & Tools -->
